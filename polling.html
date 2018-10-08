@@ -1,0 +1,78 @@
+<!doctype html>
+
+<html>
+
+<head>
+
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.3.4/dist/leaflet.css"
+   integrity="sha512-puBpdR0798OZvTTbP4A8Ix/l+A4dHDD0DGqYW6RQ+9jxkRFclaxxQb/SJAWZfWAkuyeQUytO7+7N4QKrDh+drA=="
+   crossorigin=""/>
+
+<link rel="stylesheet" href="leaflet-search.css" />
+   
+<script src="https://unpkg.com/leaflet@1.3.4/dist/leaflet.js"
+   integrity="sha512-nMMmRyTVoLYqjP9hrbed9S+FzjZHW5gY1TWCHA5ckwXZBadntCNs8kEqAWdrb9O7rxbCaA4lKTIWjDXZxflOcA=="
+   crossorigin=""></script>
+   
+<script src="jquery-3.3.1.min.js"></script>
+<script src="leaflet-search.js"></script>
+
+<style>
+#pollmap { height: 650px; }
+</style>
+
+</head>
+
+<body>
+
+<div id="pollmap"></div>
+
+<div id="divtest"></div>
+
+<script>
+
+$(document).ready(function(){
+
+	var l = [];
+	var m = 0;
+	var pollLocMap = L.map('pollmap').setView([44,-69],7);
+
+	L.tileLayer('http://{s}.tile.stamen.com/toner/{z}/{x}/{y}.png', {
+		attribution: 'Map tiles by <a href="http://stamen.com">Stamen Design</a>, under <a href="http://creativecommons.org/licenses/by/3.0">CC BY 3.0</a>. Data by <a href="http://openstreetmap.org">OpenStreetMap</a>, under <a href="http://creativecommons.org/licenses/by-sa/3.0">CC BY SA</a>.'
+	}).addTo(pollLocMap);
+	
+	var markersLayer = new L.LayerGroup();	//layer contain searched elements
+	
+	pollLocMap.addLayer(markersLayer);
+	
+	var controlSearch = new L.Control.Search({
+		position:'topright',		
+		layer: markersLayer,
+		initial: false,
+		zoom: 14,
+		marker: false
+	});
+
+	pollLocMap.addControl( controlSearch );
+
+    $.getJSON("polling.json", function(result){
+        $.each(result.polling, function(i, place){
+			console.log(place);
+            $.each(place.locations, function(j, location){
+				console.log(location);
+				l[m] = L.marker([location.latitude, location.longitude], {title: location.name}).bindPopup(location.name + "<br />" + location.address);
+				markersLayer.addLayer(l[m]);
+				m++;
+			});
+        });
+    });
+	
+});
+
+</script>
+
+<p>
+</p>
+</body>
+
+</html>

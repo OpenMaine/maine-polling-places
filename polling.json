@@ -1,0 +1,1257 @@
+{
+  "polling": {
+    "abbot": {
+      "proper": "Abbot",
+      "locations": [
+        {
+          "latitude": "45.195201",
+          "longitude": "-69.455198",
+          "address": "133 Main Road, Abbot, ME 04406",
+          "name": "Abbot Town Hall"
+        }
+      ]
+    },
+    "acton": {
+      "proper": "Acton",
+      "locations": [
+        {
+          "latitude": "43.532475",
+          "longitude": "-70.909043",
+          "address": "35 H Road, Acton, ME 04001",
+          "name": "Acton Town Hall"
+        }
+      ]
+    },
+    "addison": {
+      "proper": "Addison",
+      "locations": [
+        {
+          "latitude": "44.617727",
+          "longitude": "-67.739257",
+          "address": "334 Water Street, Addison, ME 04606",
+          "name": "Addison Town Hall"
+        }
+      ]
+    },
+	"albany twp": {
+      "proper": "Albany Township",
+      "locations": [
+        {
+          "latitude": "44.3325657",
+          "longitude": "-70.8456252",
+          "address": "1581 Hunts Corner Road, Albany Twp, ME 04217",
+          "name": "Albany Twp Town House"
+        }
+      ]
+    },
+	"albion": {
+      "proper": "Albion",
+      "locations": [
+        {
+          "latitude": "44.532561",
+          "longitude": "-69.439396",
+          "address": "22 Main Street, Albion, ME 04910",
+          "name": "Besse Building"
+        }
+      ]
+    },
+	"alexander": {
+      "proper": "Alexander",
+      "locations": [
+        {
+          "latitude": "45.066701",
+          "longitude": "-67.473311",
+          "address": "50 Cooper Road, Alexander, ME 04694",
+          "name": "Alexander Municipal Building"
+        }
+      ]
+    },
+	"alfred": {
+      "proper": "Alfred",
+      "locations": [
+        {
+          "latitude": "43.476464",
+          "longitude": "-70.716395",
+          "address": "8 Kennebec Road, Alfred, ME 04002",
+          "name": "Conant Chapel"
+        }
+      ]
+    },
+	"allagash": {
+      "proper": "Allagash",
+      "locations": [
+        {
+          "latitude": "47.089183",
+          "longitude": "-69.051680",
+          "address": "1063 Allagash Road, Allagash, ME 04774",
+          "name": "Allagash Community Center"
+        }
+      ]
+    },
+	"alna": {
+      "proper": "Alna",
+      "locations": [
+        {
+          "latitude": "44.0994238",
+          "longitude": "-69.6344956",
+          "address": "1579 Alna Road, Alna, ME 04535",
+          "name": "Alna Fire Station"
+        }
+      ]
+    },
+	"alton": {
+      "proper": "Alton",
+      "locations": [
+        {
+          "latitude": "45.048206",
+          "longitude": "-68.740571",
+          "address": "3352 Bennoch Road, Alton, ME 04468",
+          "name": "Alton Municipal Building"
+        }
+      ]
+    },
+	"amherst": {
+      "proper": "Amherst",
+      "locations": [
+        {
+          "latitude": "44.8171332",
+          "longitude": "-68.5104333",
+          "address": "572 Airline Road, Amherst, ME 04605",
+          "name": "Amherst Town Hall"
+        }
+      ]
+    },
+	"amity": {
+      "proper": "Amity",
+      "locations": [
+        {
+          "latitude": "45.9420041",
+          "longitude": "-67.8301560",
+          "address": "1143 US Route 1, Amity, ME 04471",
+          "name": "Amity Town Office"
+        }
+      ]
+    },
+	"andover": {
+      "proper": "Andover",
+      "locations": [
+        {
+          "latitude": "44.636548",
+          "longitude": "-70.749494",
+          "address": "24 Elm Street, Andover, ME 04216",
+          "name": "Andover Town Hall"
+        }
+      ]
+    },
+	"anson": {
+      "proper": "Anson",
+      "locations": [
+        {
+          "latitude": "44.7877735",
+          "longitude": "-69.8834907",
+          "address": "5 Kennebec Street, Anson, ME 04911",
+          "name": "Anson Town Hall"
+        }
+      ]
+    },
+	"appleton": {
+      "proper": "Appleton",
+      "locations": [
+        {
+          "latitude": "44.285672",
+          "longitude": "-69.245854",
+          "address": "2915 Sennebec Road, Appleton, ME 04862",
+          "name": "Appleton Town Hall"
+        }
+      ]
+    },
+	"arrowsic": {
+      "proper": "Arrowsic",
+      "locations": [
+        {
+          "latitude": "43.8874052",
+          "longitude": "-69.7884064",
+          "address": "340 Arrowsic Road, Arrowsic, ME 04530",
+          "name": "Arrowsic Town Hall"
+        }
+      ]
+    },
+	"arundel": {
+      "proper": "Arundel",
+      "locations": [
+        {
+          "latitude": "43.437219",
+          "longitude": "-70.533198",
+          "address": "468 Limerick Road, Arundel, ME 04046",
+          "name": "Arundel Fire Station"
+        }
+      ]
+	},
+   	"ashland": {
+      "proper": "Ashland",
+      "locations": [
+        {
+          "latitude": "46.631965",
+          "longitude": "-68.399881",
+          "address": "17 Bridgham Street, Ashland, ME 04732",
+          "name": "Ashland Municipal Building"
+        }
+      ]
+    },
+	"athens": {
+      "proper": "Athens",
+      "locations": [
+        {
+          "latitude": "44.9267290",
+          "longitude": "-69.6705720",
+          "address": "26 Academy Street, Athens, ME 04912",
+          "name": "Somerset Academny Building"
+        }
+      ]
+    },
+	"atkinson": {
+      "proper": "Atkinson",
+      "locations": [
+        {
+          "latitude": "45.189106",
+          "longitude": "-69.083995",
+          "address": "102 No. Stagecoach Road, Atkinson, ME 04426",
+          "name": "Atkinson Town Hall"
+        }
+      ]
+    },
+	"auburn": {
+      "proper": "Auburn",
+      "locations": [
+        {
+          "latitude": "44.097413",
+          "longitude": "-70.225227",
+          "address": "60 COurt Street, Auburn, ME 04210",
+          "name": "Auburn Hall"
+        },
+		{
+		  "latitude": "44.090615",
+		  "longitude": "-70.249035",
+		  "address": "38 Falcon Drive, Auburn, ME 04210",
+		  "name": "Auburn Middle School"
+		},
+		{
+		  "latitude": "44.084137",
+		  "longitude": "-70.243443",
+		  "address": "397 Minot Avenue, Auburn, ME 04210",
+		  "name": "Fairview School"
+		},
+		{
+		  "latitude": "44.079073",
+		  "longitude": "-70.228159",
+		  "address": "32 Sherwood Drive, Auburn, ME 04210",
+		  "name": "Sherwood Heights School"
+		},
+		{
+		  "latitude": "44.107353",
+		  "longitude": "-70.229553",
+		  "address": "35 Lake Auburn Avenue, Auburn, ME 04210",
+		  "name": "Washburn School"
+		}
+      ]
+    },
+	"augusta": {
+      "proper": "Augusta",
+      "locations": [
+        {
+          "latitude": "44.316584",
+          "longitude": "-69.770559",
+          "address": "16 Cony Street, Augusta, ME 04330",
+          "name": "Augusta City Hall"
+        },
+		{
+		  "latitude": "44.318905",
+		  "longitude": "-69.7978526",
+		  "address": "76 Community Drive, Augusta, ME 04330",
+		  "name": "Augusta Civic Center"
+		},
+		{
+		  "latitude": "44.3121892",
+		  "longitude": "-69.7969601",
+		  "address": "22 Armory Street, Augusta, ME 04330",
+		  "name": "Buker Community Center"
+		},
+		{
+		  "latitude": "44.3125354",
+		  "longitude": "-69.7480711",
+		  "address": "60 Pierce Drive, Augusta, ME 04330",
+		  "name": "Cony High School"
+		}
+      ]
+    },
+	"aurora": {
+      "proper": "Aurora",
+      "locations": [
+        {
+          "latitude": "44.432619",
+          "longitude": "-69.532139",
+          "address": "Old Route 9, Aurora, ME 04408",
+          "name": "Aurora Town Hall"
+        }
+      ]
+    },
+	"avon": {
+      "proper": "Avon",
+      "locations": [
+        {
+          "latitude": "44.7996150",
+          "longitude": "-70.3035913",
+          "address": "1116 Rangeley Road, Avon, ME 04966",
+          "name": "Avon Municipal Building"
+        }
+      ]
+    },
+	"baileyville": {
+      "proper": "Baileyville",
+      "locations": [
+        {
+          "latitude": "45.1586037",
+          "longitude": "-67.4118530",
+          "address": "63 Broadway Street, Baileyville, ME 04694",
+          "name": "F. Doug Jones Memorial Municipal Building"
+        }
+      ]
+    },
+	"baldwin": {
+      "proper": "Baldwin",
+      "locations": [
+        {
+          "latitude": "43.8268675",
+          "longitude": "-70.7755544",
+          "address": "534 Pequawket Trail, Baldwin, ME 04024",
+          "name": "Baldwin Town Office"
+        }
+      ]
+    },
+	"bancroft": {
+      "proper": "Bancroft"
+    },
+	"bangor": {
+      "proper": "Bangor",
+      "locations": [
+        {
+          "latitude": "44.7888019",
+          "longitude": "-68.7792895",
+          "address": "515 Main Street, Bangor, ME 04401",
+          "name": "Cross Insurance Center Arena"
+        }
+      ]
+    },
+	"bar+harbor": {
+      "proper": "Bar Harbor",
+      "locations": [
+        {
+          "latitude": "44.388860",
+          "longitude": "-68.210879",
+          "address": "93 Cottage Street, Bar Harbor, ME 04609",
+          "name": "Municipal Building Auditorium"
+        }
+      ]
+    },
+	"baring+plantation": {
+      "proper": "Baring Plantation",
+      "locations": [
+        {
+          "latitude": "45.1343561",
+          "longitude": "-67.3162607",
+          "address": "47 Front Street, Baring Plantation, ME 04694",
+          "name": "Baring Baptist Church"
+        }
+      ]
+    },
+	"bath": {
+      "proper": "Bath",
+      "locations": [
+        {
+          "latitude": "43.918390",
+          "longitude": "-69.826829",
+          "address": "6 Old Brunswick Road, Bath, ME 04530",
+          "name": "Bath Middle School"
+        }
+      ]
+    },
+	"beals": {
+      "proper": "Beals",
+      "locations": [
+        {
+          "latitude": "44.5194640",
+          "longitude": "-67.6139539",
+          "address": "11 Big Pond Road, Beals, ME 04611",
+          "name": "Beals Town Office"
+        }
+      ]
+    },
+	"beaver+cove": {
+      "proper": "Beaver Cove",
+      "locations": [
+        {
+          "latitude": "45.5551839",
+          "longitude": "-69.5360549",
+          "address": "795 Lily Bay Road, Beaver Cove, ME 04441",
+          "name": "Beaver Cove Town Office"
+        }
+      ]
+    },
+	"beddington": {
+      "proper": "Beddington",
+      "locations": [
+        {
+          "latitude": "44.7976457",
+          "longitude": "-68.0434100",
+          "address": "1978 State Highway 193, Beddington, ME 04622",
+          "name": "Beddington Community Building"
+        }
+      ]
+    },
+	"belfast": {
+      "proper": "Belfast",
+      "locations": [
+        {
+          "latitude": "44.424892",
+          "longitude": "-69.001937",
+          "address": "34 Commercial Street, Belfast, ME 04915",
+          "name": "Belfast Boathouse"
+        },
+		{
+		  "latitude": "44.435756",
+		  "longitude": "-68.998217",
+		  "address": "23 Mill Lane, Belfast, ME 04915",
+		  "name": "United Methodist Church"
+		}
+      ]
+    },
+	"belgrade": {
+      "proper": "Belgrade",
+      "locations": [
+        {
+          "latitude": "44.4656676",
+          "longitude": "-69.8321919",
+          "address": "990 Augusta Road, Belgrade, ME 04917",
+          "name": "Town Office"
+        }
+      ]
+    },
+	"belmont": {
+      "proper": "Belmont",
+      "locations": [
+        {
+          "latitude": "44.381632",
+          "longitude": "-69.083913",
+          "address": "613 Back Belmont Road, Belmont, ME 04952",
+          "name": "Belmont Community Building"
+        }
+      ]
+    },
+	"benedicta+twp": {
+      "proper": "Benedicta Township",
+      "locations": [
+        {
+          "latitude": "45.8701718",
+          "longitude": "-68.3849938",
+          "address": "36 School Street, Sherman, ME 04776",
+          "name": "Sherman Town Office"
+        }
+      ]
+    },
+	"benton": {
+      "proper": "Benton",
+      "locations": [
+        {
+          "latitude": "44.584251",
+          "longitude": "-69.552724",
+          "address": "1279 Clinton Avenue, Benton, ME 04901",
+          "name": "Benton Town Office"
+        }
+      ]
+    },
+	"berwick": {
+      "proper": "Berwick",
+      "locations": [
+        {
+          "latitude": "43.266582",
+          "longitude": "-70.864540",
+          "address": "11 Sullivan Square, Berwick, ME 03901",
+          "name": "Berwick Town Hall"
+        }
+      ]
+    },
+	"bethel": {
+      "proper": "Bethel",
+      "locations": [
+        {
+          "latitude": "44.4048593",
+          "longitude": "-70.7855743",
+          "address": "19 Crescent Lane, Bethel, ME 04217",
+          "name": "Crescent Park School Gymnasium"
+        }
+      ]
+    },
+	"biddeford": {
+      "proper": "Biddeford",
+      "locations": [
+        {
+          "latitude": "43.5127353",
+          "longitude": "-70.3875023",
+          "address": "10-20 Maplewood Avenue, Biddeford, ME 04005",
+          "name": "Tiger Gym Biddeford High School"
+        }
+      ]
+    },
+	"bingham": {
+      "proper": "Bingham",
+      "locations": [
+        {
+          "latitude": "45.0540040",
+          "longitude": "-69.8827990",
+          "address": "263 Main Street, Bingham, ME 04920",
+          "name": "Quimby Middle School Gymnasium"
+        }
+      ]
+    },
+	"blaine": {
+      "proper": "Blaine",
+      "locations": [
+        {
+          "latitude": "46.5094154",
+          "longitude": "-67.8745081",
+          "address": "52 Military Road, Blaine, ME 04734",
+          "name": "Blaine Town Office"
+        }
+      ]
+    },
+	"blue+hill": {
+      "proper": "Blue Hill",
+      "locations": [
+        {
+          "latitude": "44.413020",
+          "longitude": "-68.589098",
+          "address": "18 Union Street, Blue Hill, ME 04614",
+          "name": "Blue Hill Town Hall"
+        }
+      ]
+    },
+	"boothbay": {
+      "proper": "Boothbay",
+      "locations": [
+        {
+          "latitude": "44.656511",
+          "longitude": "-70.138548",
+          "address": "1011 Wiscasset Road, Boothbay, ME 04537",
+          "name": "Boothbay Town Office"
+        }
+      ]
+    },
+	"boothbay+harbor": {
+      "proper": "Boothbay Harbor",
+      "locations": [
+        {
+          "latitude": "43.851926",
+          "longitude": "-69.628844",
+          "address": "11 Howard Street, Boothbay Harbor, ME 04536",
+          "name": "Boothbay Harbor Municipal Building Fire Station"
+        }
+      ]
+    },
+	"bowdoin": {
+      "proper": "Bowdoin",
+      "locations": [
+        {
+          "latitude": "44.0318700",
+          "longitude": "-69.9348550",
+          "address": "1460 Main Street, Bowdoin, ME 04287",
+          "name": "Bowdoin Central School"
+        }
+      ]
+    },
+	"bowdoinham": {
+      "proper": "Bowdoinham",
+      "locations": [
+        {
+          "latitude": "44.008374",
+          "longitude": "-69.897472",
+          "address": "13 School Street, Bowdoinham, ME 04008",
+          "name": "Bowdoinham Town Hall"
+        }
+      ]
+    },
+	"bowerbank": {
+      "proper": "Bowerbank",
+      "locations": [
+        {
+          "latitude": "45.2927899",
+          "longitude": "-69.2005410",
+          "address": "650 Bowerbank Road, Bowerbank, ME 04426",
+          "name": "Bowerbank Fire Station"
+        }
+      ]
+    },
+	"bradford": {
+      "proper": "Bradford",
+      "locations": [
+        {
+          "latitude": "45.0700350",
+          "longitude": "-68.9156098",
+          "address": "345 East Road, Bradford, ME 04410",
+          "name": "Bradford Town Office"
+        }
+      ]
+    },
+	"bradley": {
+      "proper": "Bradley",
+      "locations": [
+        {
+          "latitude": "44.913702",
+          "longitude": "-68.630717",
+          "address": "165B Main Street, Bradley, ME 04411",
+          "name": "Bradley Municipal Building"
+        }
+      ]
+    },
+	"bremen": {
+      "proper": "Bremen",
+      "locations": [
+        {
+          "latitude": "44.023314",
+          "longitude": "-69.416241",
+          "address": "208 Waldoboro, Bremen, ME 04551",
+          "name": "Bremen Town Center"
+        }
+      ]
+    },
+	"brewer": {
+      "proper": "Brewer",
+      "locations": [
+        {
+          "latitude": "44.7875731",
+          "longitude": "-68.7564007",
+          "address": "318 Wilson Street, Brewer, ME 04412",
+          "name": "Brewer Auditorium"
+        }
+      ]
+    },
+	"bridgewater": {
+      "proper": "Bridgewater",
+      "locations": [
+        {
+          "latitude": "46.4195260",
+          "longitude": "-67.8771089",
+          "address": "11 Bootfoot Road, Bridgewater, ME 04735",
+          "name": "Bridgewater Town Office"
+        }
+      ]
+    },
+	"bridgton": {
+      "proper": "Bridgton",
+      "locations": [
+        {
+          "latitude": "44.054905",
+          "longitude": "-70.716139",
+          "address": "26 North High Street, Bridgton, ME 04009",
+          "name": "Bridgton Town Hall"
+        }
+      ]
+    },
+	"brighton+plt": {
+      "proper": "Brighton Plantation",
+      "locations": [
+        {
+          "latitude": "45.0569842",
+          "longitude": "-69.6423001",
+          "address": "Stagecoach Road, Brighton Plt, ME 04912",
+          "name": "Brighton Town Office"
+        }
+      ]
+    },
+	"bristol": {
+      "proper": "Bristol",
+      "locations": [
+        {
+          "latitude": "43.952678",
+          "longitude": "-69.512446",
+          "address": "1268 Bristol Road, Bristol, ME 04539",
+          "name": "Bristol Town Hall"
+        }
+      ]
+    },
+	"brooklin": {
+      "proper": "Brooklin",
+      "locations": [
+        {
+          "latitude": "44.2672639",
+          "longitude": "-68.5675474",
+          "address": "23 Bay Road, Brooklin, ME 04616",
+          "name": "Brooklin Town Office"
+        }
+      ]
+    },
+	"brooks": {
+      "proper": "Brooks",
+      "locations": [
+        {
+          "latitude": "44.5526516",
+          "longitude": "-69.1225170",
+          "address": "19 Purple Heart Highway, Brooks, ME 04921",
+          "name": "Brooks Fire House"
+        }
+      ]
+    },
+	"brooksville": {
+      "proper": "Brooksville",
+      "locations": [
+        {
+          "latitude": "44.3634160",
+          "longitude": "-68.7497850",
+          "address": "1 Townhouse Road, Brooksville, ME 04617",
+          "name": "Brooksville Municipal Building"
+        }
+      ]
+    },
+	"brookton+twp": {
+      "proper": "Brookton Township",
+      "locations": [
+        {
+          "latitude": "45.6586038",
+          "longitude": "-67.8667185",
+          "address": "52 Depot Street, Danforth, ME 04424",
+          "name": "Danforth Town Hall"
+        }
+      ]
+    },
+	"brownfield": {
+      "proper": "Brownfield",
+      "locations": [
+        {
+          "latitude": "43.942022",
+          "longitude": "-70.895431",
+          "address": "82 Main Street, Brownfield, ME 04010",
+          "name": "Brownfield Municipal Building"
+        }
+      ]
+    },
+	"brownville": {
+      "proper": "Brownville",
+      "locations": [
+        {
+          "latitude": "45.3224597",
+          "longitude": "-69.0421347",
+          "address": "774 Main Road, Brownville, ME 04414",
+          "name": "Brownville Elementary School"
+        }
+      ]
+    },
+	"brunswick": {
+      "proper": "Brunswick",
+      "locations": [
+        {
+          "latitude": "43.903046",
+          "longitude": "-69.977023",
+          "address": "65 Columbia Avenue, Brunswick, ME 04011",
+          "name": "Brunswick Junior High School"
+        }
+      ]
+    },
+	"buckfield": {
+      "proper": "Buckfield",
+      "locations": [
+        {
+          "latitude": "44.288657",
+          "longitude": "-70.362984",
+          "address": "34 Turner Street, Bruckfield, ME 04220",
+          "name": "Buckfield Municipal Center"
+        }
+      ]
+    },
+	"bucksport": {
+      "proper": "Bucksport",
+      "locations": [
+        {
+          "latitude": "44.575381",
+          "longitude": "-68.787037",
+          "address": "66 Bridge Street, Bucksport, ME 04416",
+          "name": "G.H. Jewett School Gymnasium"
+        }
+      ]
+    },
+	"burlington": {
+      "proper": "Burlington",
+      "locations": [
+        {
+          "latitude": "45.2540124",
+          "longitude": "-68.4099005",
+          "address": "1523 Long Ridge Road, Burlington, ME 04417",
+          "name": "Burlington Municipal Building"
+        }
+      ]
+    },
+	"burnham": {
+      "proper": "Burnham",
+      "locations": [
+        {
+          "latitude": "44.662875",
+          "longitude": "-69.362073",
+          "address": "247 South Horseback Road, Burnham, ME 04922",
+          "name": "Reynolds Corner Municipal Building"
+        }
+      ]
+    },
+	"buxton": {
+      "proper": "Buxton",
+      "locations": [
+        {
+          "latitude": "43.615310",
+          "longitude": "-70.509043",
+          "address": "185 Portland Road, Buxton, ME 04004",
+          "name": "Buxton Municipal Complex/Town Hall"
+        }
+      ]
+    },
+	"byron": {
+      "proper": "Byron",
+      "locations": [
+        {
+          "latitude": "44.719943",
+          "longitude": "-70.6292762",
+          "address": "1 Byron Village Road, Byron, ME 04275",
+          "name": "Bristol Town Hall"
+        }
+      ]
+    },
+	"calais": {
+      "proper": "Calais",
+      "locations": [
+        {
+          "latitude": "45.1804237",
+          "longitude": "-67.284526",
+          "address": "53 Garfield St., Calais, ME 04619",
+          "name": "Calais Elementary School"
+        }
+      ]
+    },
+	"cambridge": {
+      "proper": "Cambridge",
+      "locations": [
+        {
+          "latitude": "45.0227698",
+          "longitude": "-69.4578983",
+          "address": "209 Ripley Road, Cambridge, ME 04923",
+          "name": "Cambridge Municipal Building"
+        }
+      ]
+    },
+	"camden": {
+      "proper": "Camden",
+      "locations": [
+        {
+          "latitude": "44.210050",
+          "longitude": "-69.066467",
+          "address": "31 Washington Street, Camden, ME 04843",
+          "name": "Camden Public Safety Building"
+        }
+      ]
+    },
+	"canaan": {
+      "proper": "Canaan",
+      "locations": [
+        {
+          "latitude": "44.7628132",
+          "longitude": "-69.5600611",
+          "address": "299 Main Street, Canaan, ME 04924",
+          "name": "Canaan Calvary Church"
+        }
+      ]
+    },
+	"canton": {
+      "proper": "Canton",
+      "locations": [
+        {
+          "latitude": "44.4362263",
+          "longitude": "-70.3085881",
+          "address": "94 Turner Street, Canton, ME 04221",
+          "name": "Canton Town Office"
+        }
+      ]
+    },
+	"cape+elizabeth": {
+      "proper": "Cape Elizabeth",
+      "locations": [
+        {
+          "latitude": "43.5983085",
+          "longitude": "-70.2314682",
+          "address": "Ocean House Road, Cape Elizabeth, ME 04107",
+          "name": "Cape Elizabeth High School"
+        }
+      ]
+    },
+	"caratunk": {
+      "proper": "Caratunk",
+      "locations": [
+        {
+          "latitude": "45.2333785",
+          "longitude": "-69.995016",
+          "address": "11 School Street, Caratunk, ME 04925",
+          "name": "Caratunk Town Office"
+        }
+      ]
+    },
+	"caribou": {
+      "proper": "Caribou",
+      "locations": [
+        {
+          "latitude": "46.863940",
+          "longitude": "-68.004873",
+          "address": "55 Bennett Drive, Caribou, ME 04736",
+          "name": "Caribou Wellness & Recreation Center"
+        }
+      ]
+    },
+	"carmel": {
+      "proper": "Carmel",
+      "locations": [
+        {
+          "latitude": "44.8091019",
+          "longitude": "-68.9804740",
+          "address": "928 Main Road, Carmel, ME 04419",
+          "name": "Golden Harvest Grange Hall"
+        }
+      ]
+    },
+	"carrabassett+valley": {
+      "proper": "Carrabassett Valley",
+      "locations": [
+        {
+          "latitude": "45.077621",
+          "longitude": "-70.212932",
+          "address": "1001 Carriage Road, Carrabassett Valley, ME 04947",
+          "name": "Carrabassett Valley Town Office"
+        }
+      ]
+    },
+	"carroll+plt": {
+      "proper": "Carroll Plantation",
+      "locations": [
+        {
+          "latitude": "45.3726179",
+          "longitude": "-68.0777679",
+          "address": "644 Brown Road, Carroll Plt, ME 04487",
+          "name": "Carroll Plantation Office"
+        }
+      ]
+    },
+	"carthage": {
+      "proper": "Carthage",
+      "locations": [
+        {
+          "latitude": "44.6292904",
+          "longitude": "-70.4578256",
+          "address": "703A Carthage Road, Carthage, ME 04224",
+          "name": "Carthage Town Office"
+        }
+      ]
+    },
+	"cary+plt": {
+      "proper": "Cary Plantation",
+      "locations": [
+        {
+          "latitude": "45.9756579",
+          "longitude": "-67.8358147",
+          "address": "175 Hodgdon Mills Road, Cary Plt, ME 04471",
+          "name": "MSAD # 70 Superintendants Office"
+        }
+      ]
+    },
+	"casco": {
+      "proper": "Casco",
+      "locations": [
+        {
+          "latitude": "44.0044500",
+          "longitude": "-70.5228000",
+          "address": "940 Meadow Road, Casco, ME 04015",
+          "name": "Casco Community Center"
+        }
+      ]
+    },
+	"castine": {
+      "proper": "Castine",
+      "locations": [
+        {
+          "latitude": "44.388964",
+          "longitude": "-68.798973",
+          "address": "67 Court Street, Castine, ME 04420",
+          "name": "Emerson Hall"
+        }
+      ]
+    },
+	"castle+hill": {
+      "proper": "Castle Hill",
+	  "locations": []
+    },
+	"caswell": {
+      "proper": "Caswell",
+      "locations": [
+        {
+          "latitude": "46.979771",
+          "longitude": "-67.820460",
+          "address": "1025 Van Buren Road, Caswell, ME 04750",
+          "name": "Dawn F. Barnes Elementary"
+        }
+      ]
+    },
+	"centerville": {
+      "proper": "Centerville",
+      "locations": []
+    },
+	"chapman": {
+      "proper": "Chapman",
+      "locations": [
+        {
+          "latitude": "46.6514535",
+          "longitude": "-68.1229403",
+          "address": "94 Town Hall Road, Chapman, ME 04757",
+          "name": "Chapman Ridge Runners Snowmobile Club"
+        }
+      ]
+    },
+	"charleston": {
+      "proper": "Charleston",
+      "locations": [
+        {
+          "latitude": "45.082024",
+          "longitude": "-69.066677",
+          "address": "125 School Road, Charleston, ME 04422",
+          "name": "Charleston Community Center"
+        }
+      ]
+    },
+	"charlotte": {
+      "proper": "Charlotte",
+      "locations": [
+        {
+          "latitude": "45.0095874",
+          "longitude": "-67.2822106",
+          "address": "1092 Ayers Junction Road, Charlotte, ME 04666",
+          "name": "Charlotte Town Hall"
+        }
+      ]
+    },
+	"chebeague+island": {
+      "proper": "Chebeague Island",
+      "locations": [
+        {
+          "latitude": "43.7400746",
+          "longitude": "-70.1081936",
+          "address": "247 South Road, Chebeague Island, ME 04017",
+          "name": "Chebeague Island Hall & Community Center"
+        }
+      ]
+    },
+	"chelsea": {
+      "proper": "Chelsea",
+      "locations": [
+        {
+          "latitude": "44.2677138",
+          "longitude": "-69.6984906",
+          "address": "566 Togus Road, Chelsea, ME 04330",
+          "name": "Chelsea Elementary School"
+        }
+      ]
+    },
+	"cherryfield": {
+      "proper": "Cherryfield",
+      "locations": [
+        {
+          "latitude": "44.6075100",
+          "longitude": "-67.9351270",
+          "address": "12 Municipal Way, Cherryfield, ME 04622",
+          "name": "Cheeryfield Town Office Meeting Room"
+        }
+      ]
+    },
+	"chester": {
+      "proper": "Chester",
+      "locations": [
+        {
+          "latitude": "45.4334905",
+          "longitude": "-68.4600991",
+          "address": "43 South Chester Road, Chester, ME 04457",
+          "name": "Marianne Municipal Building"
+        }
+      ]
+    },
+	"chesterville": {
+      "proper": "Chesterville",
+      "locations": [
+        {
+          "latitude": "44.556047",
+          "longitude": "-70.085240",
+          "address": "409 Dutch Gap Road, Chesterville, ME 04938",
+          "name": "Chesterville Town Hall"
+        }
+      ]
+    },
+	"china": {
+      "proper": "China",
+      "locations": [
+        {
+          "latitude": "44.427877",
+          "longitude": "-69.538914",
+          "address": "571 Lakeview Drive, China, ME 04358",
+          "name": "China Town Office - Portable"
+        }
+      ]
+    },
+	"clifton": {
+      "proper": "Clifton",
+      "locations": [
+        {
+          "latitude": "44.794114",
+          "longitude": "-68.565385",
+          "address": "135 Airline Road, Clifton, ME 04428",
+          "name": "Clifton Municipal Building"
+        }
+      ]
+    },
+	"clinton": {
+      "proper": "Clinton",
+      "locations": [
+        {
+          "latitude": "44.636363",
+          "longitude": "-69.507679",
+          "address": "27 Baker Street, Clinton, ME 04927",
+          "name": "Clinton Town Office (Banquet Hall)"
+        }
+      ]
+    },
+	"codyville+plt": {
+      "proper": "Codyville Plantation",
+      "locations": [
+        {
+          "latitude": "45.4232839",
+          "longitude": "-67.7356830",
+          "address": "48 North Road, Topsfield, ME 04490",
+          "name": "Topsfield Municipal Building"
+        }
+      ]
+    },
+	"columbia": {
+      "proper": "Columbia",
+      "locations": [
+        {
+          "latitude": "44.682819",
+          "longitude": "-67.774696",
+          "address": "106 Epping Road, Columbia, ME 04623",
+          "name": "Columbia Town Hall"
+        }
+      ]
+    },
+	"columbia+falls": {
+      "proper": "Columbia Falls",
+      "locations": [
+        {
+          "latitude": "44.6378498",
+          "longitude": "-67.7338077",
+          "address": "8 Point Street, Columbia Falls, ME 04623",
+          "name": "Columbia Falls Municipal Building"
+        }
+      ]
+    },
+	"connor+twp": {
+      "proper": "Conner Township",
+      "locations": [
+        {
+          "latitude": "46.8646229",
+          "longitude": "-68.006818",
+          "address": "55 Bennett Drive, Caribou, ME 04736",
+          "name": "Caribou Wellness & Recreation Center"
+        }
+      ]
+    },
+	"cooper": {
+      "proper": "Cooper",
+      "locations": [
+        {
+          "latitude": "44.9996306",
+          "longitude": "-67.4308187",
+          "address": "Route 191-Cooper Highway, Cooper, ME 04657",
+          "name": "Cathance Grange Hall"
+        }
+      ]
+    },
+	"coplin+plt": {
+      "proper": "Coplin Plantation",
+      "locations": [
+        {
+          "latitude": "45.1373166",
+          "longitude": "-70.4286021",
+          "address": "5 Currie Street, Stratton, ME 04970",
+          "name": "Town Office"
+        }
+      ]
+    },
+	"corinna": {
+      "proper": "Corinna",
+      "locations": [
+        {
+          "latitude": "44.921952",
+          "longitude": "-69.258891",
+          "address": "37 Exeter Road, Corinna, ME 04928",
+          "name": "Corinna Fire Annex"
+        }
+      ]
+    },
+	"corinth": {
+      "proper": "Corinth",
+      "locations": [
+        {
+          "latitude": "45.002368",
+          "longitude": "-69.025411",
+          "address": "31 Exeter Road, Corinth, ME 04427",
+          "name": "Corinth Town Office Conference Room"
+        }
+      ]
+    },
+	"cornish": {
+      "proper": "Cornish",
+      "locations": [
+        {
+          "latitude": "43.805587",
+          "longitude": "-70.805730",
+          "address": "17 Maple Street, Cornish, ME 04020",
+          "name": "Pike Memorial Hall"
+        }
+      ]
+    },
+	"cornville": {
+      "proper": "Cornville",
+      "locations": [
+        {
+          "latitude": "44.833396",
+          "longitude": "-69.672579",
+          "address": "493 West Ridge Road, Cornville, ME 04976",
+          "name": "Cornville Town Hall"
+        }
+      ]
+    },
+	"cranberry+isles": {
+      "proper": "Cranberry Isles",
+      "locations": [
+        {
+          "latitude": "44.2574665",
+          "longitude": "-68.2718142",
+          "address": "191 Cranberry Road, Cranberry Isles, ME 04625",
+          "name": "Great Cranberry Island Community Center"
+        },
+        {
+          "latitude": "44.2625441",
+          "longitude": "-68.2360009",
+          "address": "10 Mosswood Road, Cranberry Isles, ME 04625",
+          "name": "Islesford Neighborhood House"
+        }
+      ]
+    }
+  }
+}
