@@ -1252,6 +1252,72 @@
           "name": "Islesford Neighborhood House"
         }
       ]
-    }
+    },
+	"crawford": {
+	  "proper": "Crawford",
+	  "locations": [
+		{
+		  "latitude": "45.0554612",
+          "longitude": "-67.5524257",
+          "address": "3190 Airline Road, Crawford, ME 04694",
+          "name": "Crawford Town Hall"
+        }
+      ]
+    },
+	"crystal": {
+	  "proper": "Crystal",
+	  "locations": [
+		{
+		  "latitude": "46.0098566",
+          "longitude": "-68.2675378",
+          "address": "68 Houlton Road, Island Falls, ME 04747",
+          "name": "Island Falls Municipal Office"
+        }
+      ]
+    },	
+	"cumberland": {
+	  "proper": "Cumberland",
+	  "locations": [
+		{
+		  "latitude": "43.789804",
+          "longitude": "-70.245175",
+          "address": "290 Tuttle Road, Cumberland, ME 04017",
+          "name": "Cumberland Town Hall"
+        }
+      ]
+    },
+	"cushing": {
+	  "proper": "Cushing",
+	  "locations": [
+		{
+		  "latitude": "44.020640",
+          "longitude": "-69.249279",
+          "address": "39 Cross Road, Cushing, ME 04563",
+          "name": "Cushing Community Center"
+        }
+      ]
+    },
+	"cutler": {
+	  "proper": "Cutler",
+	  "locations": [
+		{
+		  "latitude": "44.735730",
+          "longitude": "-67.186672",
+          "address": "2655 Cutler Road, Cutler, ME 04626",
+          "name": "Cutler Town Office"
+        }
+      ]
+    },
+	"cyr+plt": {
+	  "proper": "Cyr Plantation",
+	  "locations": [
+		{
+		  "latitude": "47.1218378",
+          "longitude": "-67.9620906",
+          "address": "218 Caribou Road, Route #1, Cyr Plt, ME 04785",
+          "name": "Governor Brann School House"
+        }
+      ]
+    },
   }
 }
