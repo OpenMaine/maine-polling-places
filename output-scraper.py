@@ -19,9 +19,12 @@ f = open('output.txt', 'r')
 for line in f:
     line = line.strip()
     if line.startswith('function createMarker'):
-        name = place_name_re.search(line).group(1)
-        current_place = {'proper': name, 'locations': []}
-        polling[name.lower()] = current_place
+        if place_name_re.search(line):
+            name = place_name_re.search(line).group(1)
+            if '+' in name:
+                name = name.replace('+', ' ')
+            current_place = {'proper': name, 'locations': []}
+            polling[name.lower().replace(' ', '')] = current_place
     if line.startswith('var latitude ='):
         current_location['latitude'] = lat_long_re.search(line).group(1)
     if line.startswith('var longitude = '):
@@ -37,5 +40,5 @@ for line in f:
         current_place['locations'].append(current_location)
         current_location = {}
 
-root = { 'polling' : polling }
-print(json.dumps(root, indent = 4))
+root = {'polling': polling}
+print(json.dumps(root, indent=4))
