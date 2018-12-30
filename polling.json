@@ -947,8 +947,8 @@
             "proper": "Carthage",
             "locations": [
                 {
-                    "latitude": "35.3262370",
-                    "longitude": "-79.4020890",
+                    "latitude": "44.6291759",
+                    "longitude": "-70.4538237",
                     "name": "Carthage Town Office",
                     "address": "703A Carthage Road, Carthage, ME 04224"
                 }
@@ -2236,8 +2236,8 @@
             "proper": "Hartford",
             "locations": [
                 {
-                    "latitude": "40.7307039",
-                    "longitude": "-73.2040845",
+                    "latitude": "44.3760333",
+                    "longitude": "-70.3473892",
                     "name": "Hartford Town Hall",
                     "address": "1190 Main Street, Hartford, ME 04220"
                 }
@@ -2482,8 +2482,8 @@
             "proper": "Jefferson",
             "locations": [
                 {
-                    "latitude": "44.100286",
-                    "longitude": "-69.378521",
+                    "latitude": "44.2018421",
+                    "longitude": "-69.4595503",
                     "name": "Jefferson Fire Station",
                     "address": "204 Waldoboro Road, Jefferson, ME 04348"
                 }
